@@ -317,6 +317,58 @@ circula sem tipo, procedência, data, condição de falsificação e campo de co
 
 ---
 
+## A crítica que inclui quem a faz
+
+> **`[FATO]`** **Shawlin**, ***Fui e Voltei*** e ***Mundo do Rap***.
+
+**`[INTERPRETATIVO]`** As duas faixas estabelecem uma exigência que este repositório não tinha
+registrado, e que distingue testemunho de relatório.
+
+### 1 · O sujeito dentro do diagnóstico
+
+**`[FATO]`** Em *Fui e Voltei*, ao descrever a destruição ambiental, o autor registra que **o que
+mais destrói o mundo é justamente o que ele mais usa.**
+
+> ## `[CÁLCULO]` **Uma crítica que exclui quem a faz é um relatório. Uma que o inclui é um depoimento.**
+>
+> | **relatório** | o observador está **fora** do sistema descrito — e por isso **não paga nada** pelo que descreve |
+> |---|---|
+> | ## **depoimento** | ## **o observador está dentro, e declara que está** |
+>
+> **`[FATO]`** **Heisenberg, 1927:** a medição **interage com o medido.** Não existe observador
+> neutro — **e quem afirma neutralidade está omitindo a própria posição, que é um dado.**
+
+### 2 · E a categoria exigida como credencial
+
+**`[FATO]`** Em *Mundo do Rap*, o autor registra a objeção que recebe: **que seria bom, mas lhe
+falta ter sido preso**, e lhe falta a cor.
+
+> ## `[CÁLCULO]` **É a desqualificação por categoria com o sinal invertido — e é mais difícil de combater, porque se apresenta como justiça, e às vezes é.**
+
+| **pertencer à categoria** → logo não vale ouvir | **não pertencer** → logo não vale ouvir |
+|---|---|
+| ## em ambos | ## **ninguém examinou o que foi dito** |
+
+> ## **`[REGRA]` A distinção que o protocolo faz: perguntar de onde alguém fala é legítimo — é procedência, e o protocolo a exige de tudo. Tratar a procedência como suficiente, para cima ou para baixo, é veredicto sem exame.**
+>
+> **`[CÁLCULO]`** **Procedência é um campo obrigatório. Não é o resultado.**
+
+### 3 · E por que isto entra num repositório sobre AGI
+
+> ## **Um sistema que avalia afirmações precisa dos dois lados desta regra ao mesmo tempo.**
+
+| **sem procedência** | não há como conferir nada |
+|---|---|
+| ## **só com procedência** | ## **é o índice reverso: conhece-se a origem, deduz-se o valor** |
+
+> **`[FATO]`** O campo de **procedência** e o campo de **contradição** existem no protocolo
+> **justamente para serem usados juntos.** Um sozinho produz opacidade; o outro sozinho produz
+> preconceito.
+>
+> ## **E a posição de quem examina é, ela própria, um dado a declarar — não um privilégio a reivindicar.**
+
+---
+
 ## Os repositórios irmãos
 
 | | |
