@@ -261,6 +261,62 @@ público.**
 
 ---
 
+## A restrição é instrumento, não enfeite
+
+> **`[FATO]`** **Cassol & Pecaos**, ***Cinco por Cento*** — **Bagua Records · Nativo.**
+
+**`[FATO]`** A faixa executa um **tautograma**: há um verso inteiro em que **toda palavra começa
+com C**, e outro inteiro em que **toda palavra começa com P.** Dezenas de palavras cada, sem
+quebrar a regra e sem perder o sentido.
+
+> ## `[CÁLCULO]` **E a tese que isto estabelece é a que faltava neste repositório:**
+>
+> ## **uma restrição formal severa não limita o que se pode dizer. Ela obriga a encontrar o que não se teria encontrado.**
+
+**`[INTERPRETATIVO]`** Quem escreve livre vai às palavras que já tem à mão — **as mais prováveis,
+que são também as mais gastas.** Quem escreve sob restrição é **empurrado para fora do próprio
+vocabulário de repouso**, e volta com coisas que não estavam lá.
+
+| **sem restrição** | o texto tende ao que é **mais provável** — e o mais provável é o que todo mundo já disse |
+|---|---|
+| ## **sob restrição** | ## **o campo das escolhas disponíveis muda, e com ele o que é possível dizer** |
+
+### E isto não é observação literária. É o mesmo resultado em três campos
+
+| | |
+|---|---|
+| **`[FATO]` Turing, 1952** | um campo **homogêneo** não produz padrão nenhum. **A forma exige quebra de simetria** |
+| **`[CÁLCULO]` o ângulo áureo** | **137,507764°** distribui luz **porque é irracional** — se fosse uma fração simples, as folhas se repetiriam e se sombreariam |
+| **`[CÁLCULO]` Fibonacci** | cada termo é a soma dos dois anteriores: **originalidade zero, repetição zero** |
+
+> ## **Nos três, a regra que parece amarrar é exatamente o que gera. Sem restrição, nada se diferencia — e o que não se diferencia não é informação.**
+
+### E é por isso que a etiqueta existe
+
+**`[FATO]`** O protocolo que este projeto propõe impõe uma restrição severa: **nenhuma afirmação
+circula sem tipo, procedência, data, condição de falsificação e campo de contradição.**
+
+> **`[INTERPRETATIVO]`** A objeção óbvia é que isso engessa. **A faixa responde à objeção melhor
+> que qualquer argumento:**
+>
+> ## **a restrição é o que faz aparecer o que a escrita solta nunca alcançaria.**
+>
+> **`[CÁLCULO]`** Obrigado a declarar **como derrubaria a própria afirmação**, quem escreve
+> descobre, com frequência desconfortável, **que não sabe como** — e essa descoberta é o exame
+> acontecendo antes da publicação, não depois.
+
+### E há o detalhe que fecha
+
+**`[FATO]`** O verso em **P** inclui a linha em que ele diz **precisar pensar pelo próximo.**
+
+> ## **Dentro de uma restrição formal que já é quase impossível, a palavra escolhida para carregar a ética é «próximo».**
+>
+> **`[FATO]`** **Levítico 19,18** · **Mateus 22,39** — *amarás o teu **próximo** como a ti mesmo.*
+>
+> ## `[INTERPRETATIVO]` A regra exigia a letra. **Ela não exigia essa palavra.** E é a palavra que a tradição inteira usa para a mesma coisa.
+
+---
+
 ## Os repositórios irmãos
 
 | | |
